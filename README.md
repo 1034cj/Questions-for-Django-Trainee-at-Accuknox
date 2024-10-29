@@ -1,8 +1,8 @@
 # Questions-for-Django-Trainee-at-Accuknox
 Not every answer is memorized by me but you should know that what reference i had used to answer them. I used Code with Harry ultimate python course last videos may be #97 or #96 to answer your questions.
 
-**Topic: Django Signals
-**
+Topic: Django Signals
+
 Question 1: By default are django signals executed synchronously or asynchronously? Please support your answer with a code snippet that conclusively proves your stance. The code does not need to be elegant and production ready, we just need to understand your logic.
 
 Question 2: Do django signals run in the same thread as the caller? Please support your answer with a code snippet that conclusively proves your stance. The code does not need to be elegant and production ready, we just need to understand your logic.
@@ -10,7 +10,7 @@ Question 2: Do django signals run in the same thread as the caller? Please suppo
 Question 3: By default do django signals run in the same database transaction as the caller? Please support your answer with a code snippet that conclusively proves your stance. The code does not need to be elegant and production ready, we just need to understand your logic.
 
 
-**Topic: Custom Classes in Python**
+Topic: Custom Classes in Python
 
 Description: You are tasked with creating a Rectangle class with the following requirements:
 
